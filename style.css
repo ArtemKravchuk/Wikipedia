@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 15px;
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    font-family: 'Gentium Book Plus';
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 50px;
+    background-color:#ffffff ;
+    margin: 5px;
+}
+
+footer {
+    color: #1becf3;
+    background: linear-gradient(90deg, #bf5df8 0%, #4C6995 100%);
+    padding:5px;
+}
+
+
+
+/* Made By Artem Kravchuk */
+
+
