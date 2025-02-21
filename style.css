@@ -16,8 +16,11 @@ header {
     font-size: 30px;
     line-height: 50px;
     background-color:#ffffff ;
+    padding: 3px;
     margin: 5px;
     text-align: center;
+    text-decoration: none;
+    font-style: normal; ;
 }
 
 footer {
